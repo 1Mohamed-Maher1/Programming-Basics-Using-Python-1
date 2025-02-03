@@ -5,15 +5,23 @@ This repository contains learning resources, projects, and exercises from the P
 ### Topics Covered:
 _____________________________________________________________________________
 • Python Syntax and Structure
+
 • Variables and Data Types
+
 • Input / Output Operations
+
 • Conditional Statements (if-else)
+
 • Loops (for, while)
+
 • Basic Functions
+
 • Introduction to Error Handling
 
 ### Features:
 _____________________________________________________________________________
 • Beginner-friendly examples to help understand Python fundamentals.
+
 • Interactive exercises and challenges to reinforce learning.
+
 • Solutions to common beginner problems in Python.
