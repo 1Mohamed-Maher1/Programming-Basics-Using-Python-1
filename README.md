@@ -1,5 +1,4 @@
 ## Programming Basics Using Python 1
-_____________________________________________________________________________
 
 This repository contains learning resources, projects, and exercises from the Programming Basics Using Python 1 course. The content focuses on building a strong foundation in Python programming, covering essential concepts and techniques for beginners.
 
